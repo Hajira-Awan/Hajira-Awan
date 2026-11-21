@@ -18,11 +18,11 @@
 
 Hey, I'm **HAJIRA AWAN** — a Computer Science student at the Institute of Space Technology (IST), Pakistan, interested in building digital experiences that combine clean code, thoughtful design, and practical problem-solving.
 
-I'm particularly drawn to frontend development and UI/UX design, but I enjoy exploring different areas of software engineering, experimenting with new technologies, and turning ideas into working projects.
+I'm particularly drawn to frontend development and UI/UX design, but I also enjoy exploring different areas of software engineering, experimenting with new technologies, and turning ideas into working projects.
 
-- 🔭 Currently working on **frontend development and real-world software projects**
-- 🌱 Exploring **React, JavaScript, UI/UX, and problem-solving**
-- 🎨 Interested in **Web Development, Figma & Interactive Design**
+- 🔭 Currently building **web applications and creative digital experiences**
+- 🌱 Learning **React, JavaScript, UI/UX, and problem-solving**
+- 🎨 Interested in **Frontend Development, Figma & Interactive Design**
 - 🤝 Open to **internships, freelance opportunities, and collaborations**
 - 🚀 Always learning, building, and figuring things out along the way.
 
@@ -46,14 +46,13 @@ I'm particularly drawn to frontend development and UI/UX design, but I enjoy exp
 | **Crime Investigation Management System** | A software project designed to organize crime records, suspects, and investigation-related information. | `C++` `Python` `CustomTkinter` |
 | **SafePay** | A payment-focused web application exploring secure transactions and database-driven functionality. | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
 | **CivicPulse Pakistan** | A civic-tech platform exploring ways to connect citizens with community services and information. | `React` `Express` `PostgreSQL` |
-| **AtlasGuard** | A fintech project focused on developing an intuitive and distinctive user interface. | `Python` `Streamlit` `UI/UX` |
 
 <br/>
 
 <img src="assets/milestones.svg" width="100%" alt="Milestones" />
 
 - 🏆 **Alibaba AI Hackathon** — Participated in an international AI-focused hackathon with Team LifeLine.
-- 🚀 **Fintechathon Shenzhen 2026** — Explored international fintech innovation through the competition.
+- 🌏 **Fintechathon Shenzhen 2026** — Participated in an international fintech innovation competition.
 - 🎨 **DevCore IST** — Team Lead, UI/UX Design.
 - 🤝 **Character Building Society (CBS), IST** — Director, Media & Content Team.
 - 🌍 **Afrium** — Director of Ambassador Programs.
@@ -76,11 +75,15 @@ I'm particularly drawn to frontend development and UI/UX design, but I enjoy exp
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-fbbf24?style=for-the-badge&labelColor=0b1220)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-5eead4?style=for-the-badge&labelColor=0b1220)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-fbbf24?style=for-the-badge&labelColor=0b1220)](https://wonderful-daifuku-adaaf9.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-5eead4?style=for-the-badge&labelColor=0b1220)](https://www.linkedin.com/in/hajira-awan-3430ab37a/)
+
 [![GitHub](https://img.shields.io/badge/GITHUB-e2e8f0?style=for-the-badge&labelColor=0b1220)](https://github.com/Hajira-Awan)
 
 </div>
+
+<br/>
 
 <div align="center">
 
