@@ -52,7 +52,6 @@ I'm particularly drawn to frontend development and UI/UX design, but I also enjo
 <img src="assets/milestones.svg" width="100%" alt="Milestones" />
 
 - 🏆 **Alibaba AI Hackathon** — Participated in an international AI-focused hackathon with Team LifeLine.
-- 🌏 **Fintechathon Shenzhen 2026** — Participated in an international fintech innovation competition.
 - 🎨 **DevCore IST** — Team Lead, UI/UX Design.
 - 🤝 **Character Building Society (CBS), IST** — Director, Media & Content Team.
 - 🌍 **Afrium** — Director of Ambassador Programs.
