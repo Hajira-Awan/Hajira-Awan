@@ -19,17 +19,16 @@
   <rect class="bg" x="1" y="1" width="998" height="328" rx="12"/>
   <rect class="bar" x="1" y="1" width="998" height="38" rx="12"/>
   <circle cx="26" cy="20" r="6" fill="#f87171"/><circle cx="48" cy="20" r="6" fill="#fbbf24"/><circle cx="70" cy="20" r="6" fill="#4ade80"/>
-  <text x="500" y="26" text-anchor="middle" class="m dim" style="font-size:14px">you@github: ~/about</text>
+  <text x="500" y="26" text-anchor="middle" class="m dim" style="font-size:14px">Hajira-Awan@github: ~/about</text>
 
-  <text x="30" y="75" class="m p line l1">you@github:~$ <tspan class="v">whoami</tspan></text>
+  <text x="30" y="75" class="m p line l1">Hajira-Awan@github:~$ <tspan class="v">whoami</tspan></text>
 
   <g class="m">
-    <text x="30"  y="112" class="k line l2">NAME</text>   <text x="180" y="112" class="v line l2">Your Full Name</text>
-    <text x="30"  y="142" class="k line l3">ROLE</text>   <text x="180" y="142" class="v line l3">Student / Developer / Designer (edit me)</text>
+    <text x="30"  y="112" class="k line l2">NAME</text>   <text x="180" y="112" class="v line l2">Hajira Awan</text>
+    <text x="30"  y="142" class="k line l3">ROLE</text>   <text x="180" y="142" class="v line l3">Student / Developer / Designer </text>
     <text x="30"  y="172" class="k line l4">STATUS</text> <text x="180" y="172" class="v line l4"><tspan fill="#4ade80">●</tspan> Open to opportunities</text>
-    <text x="30"  y="202" class="k line l5">STACK</text>  <text x="180" y="202" class="v line l5">Python · TypeScript · React · SQL</text>
-    <text x="30"  y="232" class="k line l6">TROPHY</text> <text x="180" y="232" class="v line l6">Your best achievement goes here</text>
-    <text x="30"  y="262" class="k line l7">FOCUS</text>  <text x="180" y="262" class="v line l7">AI · Web · Open source</text>
+    <text x="30"  y="202" class="k line l5">STACK</text>  <text x="180" y="202" class="v line l5"> C++ · Python · TypeScript · React · SQL </text>
+    <text x="30"  y="232" class="k line l7">FOCUS</text>  <text x="180" y="232" class="v line l7">AI · Web · Open source</text>
   </g>
   <text x="30" y="305" class="m p">you@github:~$ <tspan class="cur v">█</tspan></text>
 </svg>
