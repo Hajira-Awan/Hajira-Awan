@@ -34,7 +34,7 @@
   <polygon points="0,280 0,200 90,150 170,205 270,130 380,210 480,160 590,215 700,140 800,205 900,165 1000,210 1000,280" fill="#0d1230"/>
   <polygon points="0,280 0,235 110,205 220,240 340,200 460,245 580,215 700,250 830,210 940,245 1000,230 1000,280" fill="#080b1f"/>
   <g class="fade">
-    <text x="500" y="128" text-anchor="middle" class="name" fill="url(#glow)">YOUR NAME</text>
+    <text x="500" y="128" text-anchor="middle" class="name" fill="url(#glow)">Hajira Awan</text>
     <text x="500" y="168" text-anchor="middle" class="sub" fill="#e2e8f0">DEVELOPER · BUILDER · EXPLORER</text>
     <text x="500" y="200" text-anchor="middle" class="tag" fill="#94a3b8">CURRENTLY: BUILDING SOMETHING WORTH SHIPPING</text>
   </g>
