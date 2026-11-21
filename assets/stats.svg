@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="[ 05 ] GITHUB STATS">
+  <rect x="1" y="1" width="998" height="54" rx="8" fill="#0b1220" stroke="#1e3a5f" stroke-width="2"/>
+  <rect x="1" y="1" width="8" height="54" rx="3" fill="#fbbf24"/>
+  <text x="30" y="36" font-family="Courier New,monospace" font-size="22" font-weight="700" letter-spacing="2" fill="#e2e8f0">[ 05 ] GITHUB STATS</text>
+  <text x="970" y="35" text-anchor="end" font-family="Courier New,monospace" font-size="14" letter-spacing="2" fill="#5eead4">LIVE<tspan fill="#fbbf24"> ■</tspan></text>
+</svg>
